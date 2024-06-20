@@ -1,0 +1,343 @@
+"work_mem": setting is deprecated, and may be removed in a future release.
+table "tmp_rst_ra_sku_org_detail" does not exist, skipping
+table "tmp_org_sku_distinct" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+table "tmp_distinct_order_id" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:36.382466+08
+table "tmp_org_skc_union" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:36.427176+08
+table "tmp_skc_union" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:36.457149+08
+table "tmp_sku_target" does not exist, skipping
+time: 2024-04-29 11:43:36.559822+08
+table "tmp_target_human_skc_org" does not exist, skipping
+time: 2024-04-29 11:43:36.594607+08
+table "tmp_skc_org_store_c" does not exist, skipping
+time: 2024-04-29 11:43:36.630755+08
+table "tmp_rst_sku" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:36.733996+08
+table "tmp_sku_target_group" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:36.764238+08
+table "tmp_target_order_id_size" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:36.802897+08
+table "tmp1" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:36.879076+08
+table "tmp2" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:36.922955+08
+table "tmpx" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:36.982171+08
+table "tmp_sku_org_distinct" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:37.026509+08
+table "tmp_ra_sku_org_stock" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:37.755035+08
+table "tmp_ra_sku_org_stock_realtime" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:37.809739+08
+table "tmp_ra_sku_org_stock_realtime_skc" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:37.827928+08
+table "tmp_target_skc_org" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:38.251348+08
+table "tmp_target_skc_org_filter" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:38.637811+08
+table "tmp_ra_sku_org_data_pre" does not exist, skipping
+time: 2024-04-29 11:43:44.09495+08
+table "tmp_ra_sku_org_data" does not exist, skipping
+time: 2024-04-29 11:43:46.85785+08
+table "tmp_ra_sku_org_data_filter" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:46.949579+08
+table "tmp_ra_sku_org_data_filter_sales" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:49.150243+08
+table "tmp3" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:49.378323+08
+table "tmp4" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:49.47765+08
+table "tmp_skc_info" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:49.533649+08
+table "tmp_replenish_transfer_level" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:49.646898+08
+table "tmp_org_hierarchy" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:49.6778+08
+table "tmp_org_integration" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:50.484278+08
+table "tmp_national_skc" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:50.596305+08
+table "tmp_national_skc_json" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:50.682615+08
+table "tmp_dim_org" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+table "tmp_org_info" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:50.844971+08
+table "tmp_manager_org_skc" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:52.109285+08
+table "tmp_manager_org_skc_json" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:53.013215+08
+table "tmp_sku_skc" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:53.908035+08
+table "tmp_org_suit" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:53.991486+08
+table "tmp_manager_org_suit" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:54.167673+08
+table "tmp_national_suit" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:54.240833+08
+table "tmp_org_sales_qty" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:54.272468+08
+table "tmp_org_spu" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:54.612379+08
+table "tmp_sku_org_detail_pre" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:54.652819+08
+table "tmp_gto_action_record" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+table "tmp_sku_org_detail" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:54.727202+08
+table "tmp2_kpi" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:55.114642+08
+table "tmp_skc" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:55.148024+08
+table "tmp6_1" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:55.186027+08
+table "tmp6_2" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:55.216833+08
+table "tmp6_3" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:55.243261+08
+table "tmp6" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:43:55.287346+08
+table "tmp_all_biz_rst_ra_skc_org_detail" does not exist, skipping
+table "tmp_biz_rst_ra_skc_org_detail" does not exist, skipping
+time: 2024-04-29 11:44:13.625605+08
+table "tmp_rst_ra_skc_org_detail" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:13.761464+08
+table "tmp_skc_org_after_huaman_kpi" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:13.796218+08
+table "tmp_rst_ra_skc_org_detail_kpi" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:13.844693+08
+table "tmp_virtual_suit_code" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:13.87635+08
+table "tmp_rst_ra_skc_org_detail_result" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+column "creator" has type "unknown"
+column "reserved12" has type "unknown"
+column "reserved13" has type "unknown"
+column "reserved14" has type "unknown"
+column "reserved15" has type "unknown"
+column "reserved16" has type "unknown"
+column "reserved17" has type "unknown"
+column "reserved18" has type "unknown"
+column "reserved19" has type "unknown"
+column "reserved20" has type "unknown"
+table "tmp_batch_id" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:15.350917+08
+table "tmp_template_code_batch_id" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:15.376546+08
+table "tmp_batch_id_upd" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:15.440141+08
+table "tmp_mod_sku_ra" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:15.458627+08
+table "tmp_mod_sku_org_bef" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:15.492068+08
+table "tmp_mod_sku_org" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:15.516519+08
+table "tmp_template_row_num" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:15.542171+08
+table "tmp_mod_sku_org_template_pre" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:15.583098+08
+table "tmp_mod_sku_org_template" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:15.633205+08
+table "tmp_mod_sku_org_result" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:15.684547+08
+table "tmp_mod_skc_org_result" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:15.722345+08
+table "tmp_mod_sku_org_result_1" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:15.766931+08
+table "tmp_mod_sku_org_result_2" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:15.815181+08
+table "tmp_sku_org_data_kpi" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:15.847424+08
+table "tmp_org_sku_template_kpi" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:15.935068+08
+table "tmp_org_sku_template_kpi_total" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:16.025598+08
+table "tmp_org_sku_template_kpi_json_pre" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:16.089535+08
+table "tmp_org_sku_template_kpi_json" does not exist, skipping
+time: 2024-04-29 11:44:16.424513+08
+table "tmp_mod_sku_org_result" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:16.465641+08
+table "tmp_mod_sku_org_result_size" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:16.520008+08
+table "tmp_mod_sku_org_result_2" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:16.551422+08
+table "tmp_org_sku_kpi" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:16.635522+08
+table "tmp_org_sku_kpi_total" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:16.699238+08
+table "tmp_org_sku_kpi_json_pre" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:16.792896+08
+table "tmp_org_sku_kpi_json" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:16.854913+08
+table "tmp_stock_move_score" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:16.898094+08
+table "tmp_stock_move_score_upd" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:16.956218+08
+table "tmp_ra_skc_data_total" does not exist, skipping
+time: 2024-04-29 11:44:18.037772+08
+table "tmp_rst_ra_sku_org_detail_2" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:18.113515+08
+table "tmp_sku_target_date" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:18.144636+08
+table "tmp_sku_store_target_stock" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:18.907876+08
+table "tmp_sku_store_target_stock_json" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:18.962264+08
+table "tmp_ra_skc_org_total" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+column "size_code" has type "unknown"
+time: 2024-04-29 11:44:19.076984+08
+table "tmp_ra_skc_org_fill_rate" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+time: 2024-04-29 11:44:19.166275+08
+table "tmp_rst_ra_skc_org_detail_result_2" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+column "creator" has type "unknown"
+column "reserved12" has type "unknown"
+column "reserved13" has type "unknown"
+column "reserved14" has type "unknown"
+column "reserved15" has type "unknown"
+column "reserved16" has type "unknown"
+column "reserved17" has type "unknown"
+column "reserved18" has type "unknown"
+column "reserved19" has type "unknown"
+column "reserved20" has type "unknown"
+time: 2024-04-29 11:44:19.392038+08
+time: 2024-04-29 11:44:19.555247+08
+delete rst_ra_skc_org_detail begin: 2024-04-29 11:44:19.637149+08
+delete rst_ra_skc_org_detail end: 2024-04-29 11:44:19.815891+08
+update_skc_exception_type() begin: 2024-04-29 11:44:19.825161+08
+table "org_invaild_image" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause -- Using column(s) named 'remark' as the Greenplum Database data distribution key for this table.
+table "get_function_name" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+table "get_function_name_rn" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+drop cascades to function get_item_ids_get(text[])
+function tenant_ssmd_biz.get_item_ids_get(text[]) does not exist, skipping
+table "tmp_ra_stockorg_skc_1" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+table "tmp_skc_store_exception_types_all" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause -- Using column named 'order_id' as the Greenplum Database data distribution key for this table.
+table "tmp_ra_stockorg_itera_pre" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+table "tmp_ra_stockorg_skc" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+table "tmp_ra_stockorg_itera" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+pkg_count_result:tenant_ssmd_biz.p_has_sale_broken_size_after_ra_function(%2024-04-26 00:00:00%,%biz%,%有销决策后断码%)
+v_sql01:tenant_ssmd_biz.p_has_sale_broken_size_after_ra_function('2024-04-26 00:00:00','biz','有销决策后断码')
+pkg_name_result:p_has_sale_broken_size_after_ra_function
+table "tmp_ra_stockorg_skc_temp" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+create tmp_ra_stockorg_skc_temp over-1
+get_item_ids_get: select tenant_ssmd_biz.p_has_sale_broken_size_after_ra_function('2024-04-26 00:00:00','biz','有销决策后断码')
+table "tmp_skc_store_status_workflow" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+table "tmp_skc_store_status" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+table "get_brand_table" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+table "tmp_skc_store_exception_type2" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+table "tmp_skc_store_exception_types" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+pkg_count_result:tenant_ssmd_biz.p_no_sale_broken_size_after_ra_function(%2024-04-26 00:00:00%,%biz%,%无销齐码变断码%)
+v_sql01:tenant_ssmd_biz.p_no_sale_broken_size_after_ra_function('2024-04-26 00:00:00','biz','无销齐码变断码')
+pkg_name_result:p_no_sale_broken_size_after_ra_function
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+create tmp_ra_stockorg_skc_temp over-2
+get_item_ids_get: select tenant_ssmd_biz.p_no_sale_broken_size_after_ra_function('2024-04-26 00:00:00','biz','无销齐码变断码')
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+table "tmp_skc_store_exception_type1" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+table "tmp_skc_store_exception_types_all_result" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+table "tmp_skc_store_exception_types_all_result_unique" does not exist, skipping
+Table doesn't have 'DISTRIBUTED BY' clause. Creating a NULL policy entry.
+update rst_ra_skc_org_detail begin: 2024-04-29 11:44:25.920748+08
+update rst_ra_skc_org_detail end: 2024-04-29 11:44:26.036367+08
+update_skc_exception_type() end: 2024-04-29 11:44:26.039329+08
